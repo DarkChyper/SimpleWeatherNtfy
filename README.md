@@ -1,7 +1,9 @@
 
 # <p align="center">Simple Weather Ntfy</p>
 
-A simple and dirty PHP Script to send weather through a ntfy.sh personnal server
+A quick little PHP project to have fun with the OpenWeather API, an ntfy.sh server and some php 8.x.
+
+This project should lead to something more interesting with a base of Symfony and Docker.
 
 ## 🍰 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
